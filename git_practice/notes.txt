@@ -1,1 +1,3 @@
-Hello Git
+Hello git 
+
+This is testing file for practice work #3
