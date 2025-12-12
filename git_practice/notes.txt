@@ -1,3 +1,6 @@
 Hello git 
 
 This is testing file for practice work #3
+
+
+Change in the feature_conflict
